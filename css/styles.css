@@ -1,0 +1,14 @@
+h1 {
+    text-align : center;
+}
+
+body {
+    background-color:bisque;
+}
+
+img {
+    height:300px;
+    width:auto;
+    overflow:scroll;
+    border: 1px solid red;
+}
